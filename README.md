@@ -23,4 +23,4 @@ This dataset is to facilitate image classification for 8 skin diseases:
 #### Tools and Technology Used: 
 - **Model:** Resnet 152  
 - **Programming Language:** Python
-- **Deep Learning Framework:** Fast.ai
+- **Deep Learning Library:** Fast.ai

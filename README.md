@@ -1,5 +1,7 @@
 # Skin Cancer Detection
-### By Team Machine Minds
+### **By Team Machine Minds**
+### Brief Description of Project:
+Skin cancer detection is a practical application of deep learning which helps to quickly and accurately predict the skin cancer diseases from images. We have followed transfer learning approach in this project and used the pretrained resnet152 architecture for classifying the diseases to 8 categories. As the original dataset was highly imbalanced, we have performed image augmentation and undersampling to create  a custom balanced dataset for improving performance of our model. This system aims to help medical professionals and dermatologiests to aid in diagnosis of skin cancer.
 #### Team Members
 - Shyamron Dongol
 - Anjan Khadka
